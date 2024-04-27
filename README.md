@@ -3,13 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=2000&color=F71010&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Full+Stack+Desktop+app)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZ6bG5jaDVhdWtxaGZlbzJyNXNmeDg1c3ZhMjYzaHhtdTVuc3lnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="border: 2px solid black;">
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=2000&color=F71010&center=true&vCenter=true&multiline=true&random=false&width=435&lines=-----------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 <!-- Developer Working at Night GIF from Dribbble: https://dribbble.com/shots/23267992-Developer-Working-at-Night -->
 <p align="center">
   <img width="250" align="right" src="https://cdn.dribbble.com/users/710519/screenshots/23267992/media/4d2827b6bb86c9a51353ac2d341de24b.gif">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=2000&color=F71010&center=true&vCenter=true&multiline=true&random=false&width=435&lines=-----------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
+
 ### About  Me :
 -🔭 I’m currently working on code generator
 
